@@ -1,6 +1,6 @@
 # Skills
 
-This is my personal skills repo. It's tightly coupled with my agentic control plane. I take input from many sources and iterate.
+This is my personal skills repo. It's tightly coupled with [my agentic control plane](https://github.com/prncss-xyz/neoplane.nvim). I take input from many sources and iterate.
 
 ## Sources
 
