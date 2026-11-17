@@ -12,5 +12,3 @@ This is my personal skills repo. It's tightly coupled with my agentic control pl
 - [pstack](https://github.com/cursor/plugins/blob/main/pstack/skills)
   - the principles:
     - laziness-protocol, make-operations-idempotent, model-the-domain, subtract-before-you-add, test-behavior-not-implementation
-
-
